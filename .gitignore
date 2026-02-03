@@ -185,6 +185,9 @@ docker-compose.override.yml
 # Laravel Sail
 docker-compose.override.yml
 
+# .vs
+*.vs
+
 # Temporary files
 *.tmp
 *.temp
